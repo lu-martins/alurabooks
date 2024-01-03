@@ -5,8 +5,9 @@
 
 <p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
 <p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+<p align="center"> An e-commerce site for AluraBooks, an online bookshop selling books on technology.<p align="center">
 
-## Tecnologias
+## Tecnologias/Technologies
 * HTML
 * CSS
 * SwiperJS
